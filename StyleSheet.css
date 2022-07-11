@@ -299,7 +299,6 @@
     width: 50%;
     margin: 0 auto;
     margin-top: 40px;
-    display: grid;
     grid-template-columns: 200px 200px 200px;
     justify-content: center;
     gap: 50px;
